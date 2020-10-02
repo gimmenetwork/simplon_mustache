@@ -1,6 +1,6 @@
 {
-    "name": "simplon/mustache",
-    "description": "Lightweight & fast implementation of Mustache - Logic-less templates.",
+    "name": "gimmenetwork/simplon_mustache",
+    "description": "[FORK] Lightweight & fast implementation of Mustache - Logic-less templates.",
     "homepage": "https://github.com/fightbulc/simplon_mustache",
     "type": "library",
     "keywords": [
