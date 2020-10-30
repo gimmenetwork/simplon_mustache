@@ -27,5 +27,8 @@
         "psr-4": {
             "Simplon\\Mustache\\": "src/"
         }
+    },
+    "replace": {
+        "simplon/mustache": "0.1.*"
     }
 }
